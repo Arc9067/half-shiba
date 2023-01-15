@@ -1117,6 +1117,12 @@ input[type="radio"] {
   padding-bottom: 15px;
 }
 
+.btn-primary1{
+  background-color: #bf000a !important;
+  border-color: transparent;
+}
+
+
 .banner-txt h3 {
   font-family: bb;
   font-size: 100px;
