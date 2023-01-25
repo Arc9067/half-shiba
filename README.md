@@ -1,2 +1,35 @@
-# half-shiba
-Half Shiba Inu is one of the first tokens to be paired with $SHIB LP. To utilize $SHIB token and prevent bots and snipers.
+# Half shiba Official Website
+
+This is a readme file for halfshiba Official Coin
+
+## Technologies used
+
+#### Below Are the Technologies used in this project
+
+- `HTML5` for struturing the website / Website Content
+
+- `CSS` for Styling the website
+
+- `SASS` for adding addiional functions to the webisite
+
+- `JAVASCRIPT` for adding addiional functions to the webisite
+
+## Website Preview
+
+#### mobile Preview
+
+![alt text](https://github.com/Arc9067/half-shiba/blob/main/img/screenshot/1.png?raw=true)
+
+![alt text](https://github.com/Arc9067/half-shiba/blob/main/img/screenshot/2.png?raw=true)
+
+![alt text](https://github.com/Arc9067/half-shiba/blob/main/img/screenshot/3.png?raw=true)
+
+![alt text](https://github.com/Arc9067/half-shiba/blob/main/img/screenshot/4.png?raw=true)
+
+![alt text](https://github.com/Arc9067/half-shiba/blob/main/img/screenshot/5.png?raw=true)
+
+![alt text](https://github.com/Arc9067/half-shiba/blob/main/img/screenshot/6.png?raw=true)
+
+### Link to website Preview
+
+[Official website](https://halfshiba.site/)
