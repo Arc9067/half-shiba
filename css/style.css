@@ -40,6 +40,11 @@ body {
   overflow-x: hidden;
 }
 
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
 #darkmode {
   background: #141414;
 }
@@ -1117,11 +1122,10 @@ input[type="radio"] {
   padding-bottom: 15px;
 }
 
-.btn-primary{
+.btn-primary {
   background-color: #bf000a !important;
   border-color: transparent;
 }
-
 
 .banner-txt h3 {
   font-family: bb;
@@ -2123,6 +2127,31 @@ input[type="radio"] {
   border-radius: 50px;
   top: 39px;
   text-transform: uppercase;
+}
+
+.img {
+  /* min-height: 100vh; */
+  width: 100%;
+  /* background-color: red; */
+  padding: 2rem 0;
+}
+
+.img .container {
+  /* background-color: green; */
+}
+
+.img .container .row {
+  row-gap: 2rem;
+}
+
+.img .container .row div {
+  display: block;
+  margin: 0 auto;
+  /* background-color: purple; */
+}
+
+.img .container .row div img {
+  border-radius: 5px;
 }
 
 /*===========================
