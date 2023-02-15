@@ -428,7 +428,6 @@ main #home .container .row .article1 .inner-article .title {
 main #home .container .row .article1 .inner-article .des {
   max-width: 25rem;
   color: var(--text-clr);
-  text-transform: lowercase;
 }
 main #home .container .row .article1 .inner-article .btn-div {
   gap: 1rem;
