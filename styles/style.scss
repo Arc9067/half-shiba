@@ -573,11 +573,32 @@ main {
       //   background-color: blue;
       //   max-width: 800px;
 
+      .title1 {
+        text-transform: uppercase;
+        font-family: var(--Barlow);
+        font-weight: var(--ExtraBold);
+        font-size: 3em;
+        max-width: 30rem;
+        line-height: 0.9;
+        color: var(--white);
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 2.5rem;
+      }
       .row1 {
         // background-color: green;
         // gap: 1rem;
+
+        video {
+          // background-color: greenyellow;
+          height: 100%;
+          max-width: 100%;
+        }
+
         .article1 {
           border-radius: 35px 0px 0px 0px;
+          overflow: hidden;
         }
         .article2 {
           min-height: 300px;
