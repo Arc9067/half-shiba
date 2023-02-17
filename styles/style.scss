@@ -480,11 +480,14 @@ main {
               a:first-child {
                 background-color: var(--clr-primary);
                 color: var(--black-clr);
+                cursor: pointer;
+                z-index: 100;
               }
               a:last-child {
                 background-color: transparent;
                 border: 1px solid #fbb040;
                 color: var(--clr-primary);
+                z-index: 100;
               }
 
               .btn {
