@@ -381,7 +381,7 @@ main {
   overflow: hidden;
 }
 main #home {
-  padding: 55px 0 0;
+  padding: 75px 0 0;
   max-height: 100vh;
 }
 main #home .container {
@@ -520,7 +520,7 @@ main #about .container .row .article2 .btn:hover {
 main #tokenomics {
   margin-top: 4rem;
   width: 100%;
-  padding: 40px 0;
+  padding: 75px 0;
 }
 main #tokenomics .container .title1 {
   text-transform: uppercase;
@@ -606,7 +606,7 @@ main #tokenomics .container .row2 article h3 {
 }
 main #nft {
   width: 100%;
-  padding: 40px 0;
+  padding: 75px 0;
 }
 main #nft .container .row {
   background-color: #202020;
@@ -662,7 +662,7 @@ main .voltage iframe {
 }
 main #join {
   width: 100%;
-  padding: 40px 0;
+  padding: 75px 0;
 }
 main #join .container .row article {
   background: url(../images/joinbg.png) no-repeat center;
