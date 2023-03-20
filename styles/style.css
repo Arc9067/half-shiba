@@ -522,7 +522,7 @@ main #tokenomics {
   width: 100%;
   padding: 25px 0;
 }
-main #tokenomics .container .video {
+main #tokenomics .container video {
   width: auto;
   heigh: auto;
 }
@@ -538,10 +538,6 @@ main #tokenomics .container .title1 {
   display: block;
   margin: 0 auto;
   margin-bottom: 2.5rem;
-}
-main #tokenomics .container .row1 video {
-  height: 100%;
-  max-width: 100%;
 }
 main #tokenomics .container .row1 .article1 {
   border-radius: 35px 0px 0px 0px;
