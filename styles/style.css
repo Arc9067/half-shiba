@@ -439,11 +439,17 @@ main #home .container .row .article1 .inner-article .btn-div a:first-child {
   cursor: pointer;
   z-index: 100;
 }
+main #home .container .row .article1 .inner-article .btn-div a:first-child:hover {
+  background-color: #fbb040;
+
+}
 main #home .container .row .article1 .inner-article .btn-div a:last-child {
-  background-color: transparent;
-  border: 1px solid #fbb040;
+  background-color: #0088cc;
   color: var(--clr-primary);
   z-index: 100;
+}
+main #home .container .row .article1 .inner-article .btn-div a:last-child:hover {
+  background-color: #fbb040;
 }
 main #home .container .row .article1 .inner-article .btn-div .btn {
   border-radius: 0;
@@ -683,6 +689,20 @@ main #join .container .row article .join-btn .btn:nth-child(2) {
   color: var(--white);
 }
 main #join .container .row article .join-btn .btn:nth-child(2):hover {
+  background-color: #fbb040;
+}
+main #join .container .row article .join-btn .btn:nth-child(3) {
+  background-color: #ff4500;
+  color: var(--white);
+}
+main #join .container .row article .join-btn .btn:nth-child(3):hover {
+  background-color: #fbb040;
+}
+main #join .container .row article .join-btn .btn:nth-child(4) {
+  background-color: #5865f2;
+  color: var(--white);
+}
+main #join .container .row article .join-btn .btn:nth-child(4):hover {
   background-color: #fbb040;
 }
 main #join .container .row article .join-btn .btn:last-child {
