@@ -113,6 +113,8 @@ body .loader .inner-loader .circle {
   border-radius: 50%;
   text-align: center;
   color: white;
+  font-size: 2rem;
+  padding: 25px 0;
 }
 body .loader .inner-loader .circle:nth-child(2) {
   background-color: var(--clr-sec);
