@@ -676,7 +676,14 @@ main #join .container .row article .join-btn .btn:nth-child(1) {
   color: var(--white);
 }
 main #join .container .row article .join-btn .btn:nth-child(1):hover {
-  background-color: #06bcf3;
+  background-color: #fbb040;
+}
+main #join .container .row article .join-btn .btn:nth-child(2) {
+  background-color: #0088cc;
+  color: var(--white);
+}
+main #join .container .row article .join-btn .btn:nth-child(2):hover {
+  background-color: #fbb040;
 }
 main #join .container .row article .join-btn .btn:last-child {
   border: 1px solid #fbb040;
