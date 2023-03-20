@@ -445,7 +445,7 @@ main #home .container .row .article1 .inner-article .btn-div a:first-child:hover
 }
 main #home .container .row .article1 .inner-article .btn-div a:last-child {
   background-color: #0088cc;
-  color: var(--clr-primary);
+  color: white;
   z-index: 100;
 }
 main #home .container .row .article1 .inner-article .btn-div a:last-child:hover {
