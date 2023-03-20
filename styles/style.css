@@ -522,10 +522,10 @@ main #tokenomics {
   width: 100%;
   padding: 25px 0;
 }
-main #tokenomics .container video {
+/* main #tokenomics .container video {
   width: auto;
   height: auto;
-}
+}*/
 main #tokenomics .container .title1 {
   text-transform: uppercase;
   font-family: var(--Barlow);
