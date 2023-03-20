@@ -638,6 +638,19 @@ main #nft .container .row article .btn:hover {
   background-color: var(--btn-clr);
   color: var(--black-clr);
 }
+main #nft .container .title_nft {
+  text-transform: uppercase;
+  font-family: var(--Barlow);
+  font-weight: var(--ExtraBold);
+  font-size: 3em;
+  max-width: 30rem;
+  line-height: 0.9;
+  color: var(--white);
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 2.5rem;
+}
 main .voltage {
   display: flex;
   justify-content: center;
