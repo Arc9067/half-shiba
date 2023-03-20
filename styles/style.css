@@ -609,7 +609,7 @@ main #nft {
 main #nft .container .row {
   background-color: #202020;
   justify-content: space-between;
-  padding: 10px 0;
+  padding: 25px;
   border-radius: 20px;
 }
 main #nft .container .row article {
@@ -620,6 +620,7 @@ main #nft .container .row article {
 main #nft .container .row article img {
   cursor: pointer;
   position: relative;
+  border-radius: 10px;
 }
 main #nft .container .row article .btn {
   background-color: #fbb040;
