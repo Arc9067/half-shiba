@@ -111,6 +111,8 @@ body .loader .inner-loader .circle {
   width: 50px;
   background-color: orange;
   border-radius: 50%;
+  text-align: center;
+  color: white;
 }
 body .loader .inner-loader .circle:nth-child(2) {
   background-color: var(--clr-sec);
