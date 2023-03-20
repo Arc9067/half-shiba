@@ -622,16 +622,17 @@ main #nft .container .row article img {
   position: relative;
 }
 main #nft .container .row article .btn {
-  background-color: #2081e2;
-  outline: 1px solid #1e6ebd;
+  background-color: #fbb040;
+  outline: 1px solid #000000;
   border-radius: 0;
   text-transform: uppercase;
   font-weight: var(--Bold);
   font-family: var(--Barlow);
+  color: var(--black-clr);
 }
 main #nft .container .row article .btn:hover {
-  background-color: #1e6ebd;
-  color: var(--white);
+  background-color: var(--btn-clr);
+  color: var(--black-clr);
 }
 main .voltage {
   display: flex;
