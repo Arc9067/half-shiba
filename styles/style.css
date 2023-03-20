@@ -520,7 +520,11 @@ main #about .container .row .article2 .btn:hover {
 main #tokenomics {
   margin-top: 4rem;
   width: 100%;
-  padding: 75px 0;
+  padding: 25px 0;
+}
+main #tokenomics .container .video {
+  width: auto;
+  heigh: auto;
 }
 main #tokenomics .container .title1 {
   text-transform: uppercase;
