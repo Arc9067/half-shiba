@@ -456,6 +456,7 @@ main #home .container .row .article1 .inner-article .btn-div .btn {
   font-weight: var(--ExtraBold);
   cursor: pointer;
   text-transform: uppercase;
+  transition: 0.3s linear;
 }
 main #about {
   width: 100%;
@@ -621,15 +622,15 @@ main #nft .container .row article img {
   position: relative;
 }
 main #nft .container .row article .btn {
-  background-color: transparent;
-  outline: 1px solid #ff0000;
+  background-color: #2081e2;
+  outline: 1px solid #1e6ebd;
   border-radius: 0;
   text-transform: uppercase;
   font-weight: var(--Bold);
   font-family: var(--Barlow);
 }
 main #nft .container .row article .btn:hover {
-  background-color: var(--clr-sec);
+  background-color: #1e6ebd;
   color: var(--white);
 }
 main .voltage {
