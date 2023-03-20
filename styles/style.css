@@ -524,7 +524,7 @@ main #tokenomics {
 }
 main #tokenomics .container video {
   width: auto;
-  heigh: auto;
+  height: auto;
 }
 main #tokenomics .container .title1 {
   text-transform: uppercase;
