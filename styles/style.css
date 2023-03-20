@@ -607,7 +607,7 @@ main #nft {
   padding: 40px 0;
 }
 main #nft .container .row {
-  background-color: white;
+  background-color: #202020;
   justify-content: space-between;
   padding: 10px 0;
   border-radius: 20px;
