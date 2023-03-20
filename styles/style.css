@@ -705,11 +705,11 @@ main #join .container .row article .join-btn .btn:nth-child(4) {
 main #join .container .row article .join-btn .btn:nth-child(4):hover {
   background-color: #fbb040;
 }
-main #join .container .row article .join-btn .btn:last-child {
+/* main #join .container .row article .join-btn .btn:last-child {
   border: 1px solid #fbb040;
   background-color: transparent;
   color: var(--btn-clr);
-}
+} */
 main #join .container .row article .join-btn .btn {
   border-radius: 0;
   font-family: var(--Barlow);
