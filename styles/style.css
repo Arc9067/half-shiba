@@ -527,8 +527,8 @@ main #tokenomics .container .how_to_buy {
     flex-wrap: wrap;
     align-items: center;
     background-color: #212529;
-    border-radius: 79px 0px 79px 0px;
-    padding: 40px;
+    border-radius: 35px 35px 0px 0px;
+    padding: 25px;
     margin-bottom: 23px;
 }
 main #tokenomics .container .how_to_buy_video {
