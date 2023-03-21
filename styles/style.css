@@ -74,7 +74,7 @@ body {
   margin: var(--header-height) 0 0 0;
   font-family: var(--Robotto);
   font-size: var(--normal-font-size);
-  background: var(--body-clr);
+  background: #001824;
   color: var(--text-color);
   position: relative;
 }
