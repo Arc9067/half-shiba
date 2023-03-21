@@ -483,8 +483,10 @@ main #about .container .row article {
   z-index: 3;
 }
 
-main #about .container .row article .aboutimg {
-  
+main #about .container .row article .aboutimg img {
+  width: 80%;
+  height: auto;
+  min-width: 350px;
 }
 
 main #about .container .row .article2 {
