@@ -641,8 +641,6 @@ main #nft .container .row article {
   flex-direction: column;
   gap: 1rem;
   padding: 20px;
-  width: 40%; /* or any other width that works for your design */
-  /* other existing styles */
 }
 main #nft .container .row article img {
   cursor: pointer;
