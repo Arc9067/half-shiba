@@ -901,6 +901,9 @@ main #whitePaper .container .row article .inner-article h2 {
   main #home .container .row .article1 .inner-article .title {
     font-size: 4em;
   }
+    main #home .container .row .article1 {
+    order: 2;
+  }
   main #home .container .row .article1 .inner-article .btn-div {
     flex-wrap: wrap;
     justify-content: center;
