@@ -641,10 +641,10 @@ main #nft .container .row .nft {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  padding: 0 1rem; /* Add some padding */
-  min-width: 200px; /* Set a minimum width */
+  padding: 2px;
+  width: 220px;
   visibility: visible !important;
-  opacity: 1 !important;  
+  opacity: 1 !important; 
 }
 main #nft .container .row .nft img {
   cursor: pointer;
@@ -972,7 +972,7 @@ main #whitePaper .container .row article .inner-article h2 {
     height: auto;
 }
   #nft .container .row {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     row-gap: 1.5rem;
   }
