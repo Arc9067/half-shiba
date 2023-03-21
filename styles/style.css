@@ -553,7 +553,7 @@ main #tokenomics .container .how_to_buy_title {
 main #tokenomics .container .row1 .article1 {
   border-radius: 35px 0px 0px 0px;
   overflow: hidden;
-  text-aligne: center;
+  
 }
 main #tokenomics .container .row1 .article3 img {
     max-width: 85%;
@@ -565,6 +565,7 @@ main #tokenomics .container .row1 .article2 {
 }
 main #tokenomics .container .row1 .article3 {
   border-radius: 0px 35px 0px 0px;
+    text-aligne: center;
 }
 main #tokenomics .container .row1 article {
   margin: 0 auto;
