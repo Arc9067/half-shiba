@@ -522,10 +522,15 @@ main #tokenomics {
   width: 100%;
   padding: 25px 0;
 }
-/* main #tokenomics .container video {
-  width: auto;
-  height: auto;
-}*/
+main #tokenomics .container .buy_video {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+main #tokenomics .container video {
+    width: 50%;
+    height: auto;
+}
 main #tokenomics .container .title1 {
   text-transform: uppercase;
   font-family: var(--Barlow);
