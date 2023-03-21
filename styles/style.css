@@ -614,6 +614,7 @@ main #tokenomics .container .row2 article {
   text-align: center;
   color: var(--white);
   width: 18%;
+  min-width: 180px;
 }
 main #tokenomics .container .row2 article p {
   text-transform: uppercase;
