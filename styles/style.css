@@ -485,6 +485,11 @@ main #about .container .row {
 main #about .container .row article {
   z-index: 3;
 }
+
+main #about .container .row article .aboutimg {
+  width; 600px;
+}
+
 main #about .container .row .article2 {
   color: var(--white);
 }
