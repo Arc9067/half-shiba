@@ -629,6 +629,8 @@ main #tokenomics .container .row2 article h3 {
 main #nft {
   width: 100%;
   margin: 50px 0;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
 main #nft .container .row {
   display: flex;
