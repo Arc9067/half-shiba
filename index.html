@@ -51,8 +51,23 @@
     />
     <link rel="stylesheet" href="./styles/style.css" />
     <!-- --------------------------------- styles end here ----------------------------------------------- -->
+    
+    <script>
+    function autoScroll() {
+      var container = document.getElementById("nft-container");
+      var scrollAmount = container.scrollWidth - container.clientWidth;
+      var scrollInterval = setInterval(function() {
+        if (container.scrollLeft < scrollAmount) {
+          container.scrollLeft += 1;
+        } else {
+          clearInterval(scrollInterval);
+        }
+      }, 20);
+    }
+  </script>
+    
   </head>
-  <body>
+  <body onload="autoScroll()">
     <!-- absolute elements start here -->
 
     <div class="loader">
@@ -284,7 +299,7 @@
 
 
       <section id="nft">
-        <div class="container">
+        <div class="container" id="nft-container">
           <h1 class="title_nft">non fungible tokens</h1>
           <div class="row">
             
