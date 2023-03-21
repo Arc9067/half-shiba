@@ -640,7 +640,8 @@ main #nft .container .row article {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  padding: 20px;
+  padding: 0 1rem; /* Add some padding */
+  min-width: 200px; /* Set a minimum width */
 }
 main #nft .container .row article img {
   cursor: pointer;
