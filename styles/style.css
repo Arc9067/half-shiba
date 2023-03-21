@@ -529,10 +529,14 @@ main #tokenomics .container .how_to_buy {
     flex-wrap: wrap;
     align-items: center;
     flex-direction: column;
-    background-color: #212529;
     border-radius: 35px 35px 0px 0px;
     padding: 25px;
     margin-bottom: 23px;
+}
+main #tokenomics .container .how_to_buy p {
+    font-weight: var(--medium);
+    max-width: 25rem;
+    color: var(--clr-primary);
 }
 main #tokenomics .container .how_to_buy_video {
     margin: 0 auto;
