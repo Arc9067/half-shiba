@@ -643,6 +643,8 @@ main #nft .container .row .nft {
   gap: 1rem;
   padding: 0 1rem; /* Add some padding */
   min-width: 200px; /* Set a minimum width */
+  visibility: visible !important;
+  opacity: 1 !important;  
 }
 main #nft .container .row .nft img {
   cursor: pointer;
