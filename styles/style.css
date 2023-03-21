@@ -632,7 +632,8 @@ main #nft {
 }
 main #nft .container .row {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
 }
 main #nft .container .row .nft {
   display: flex;
