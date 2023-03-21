@@ -632,9 +632,7 @@ main #nft {
 }
 main #nft .container .row {
   display: flex;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch; /* For smoother scrolling on iOS devices */
+  flex-wrap: wrap;
 }
 main #nft .container .row article {
   display: flex;
