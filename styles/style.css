@@ -561,7 +561,7 @@ main #tokenomics .container .row1 .article1 {
 }
 main #tokenomics .container .row1 .article3 img {
     max-width: 85%;
-    height: 85%;
+    height: auto;
 }
 
 main #tokenomics .container .row1 .article2 {
