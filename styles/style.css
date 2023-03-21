@@ -634,19 +634,19 @@ main #nft .container .row {
   display: flex;
   flex-wrap: wrap;
 }
-main #nft .container .row article {
+main #nft .container .row .nft {
   display: flex;
   flex-direction: column;
   gap: 1rem;
   padding: 0 1rem; /* Add some padding */
   min-width: 200px; /* Set a minimum width */
 }
-main #nft .container .row article img {
+main #nft .container .row .nft img {
   cursor: pointer;
   position: relative;
   border-radius: 10px;
 }
-main #nft .container .row article .btn {
+main #nft .container .row .nft .btn {
   background-color: #fbb040;
   outline: 1px solid #000000;
   border-radius: 0;
@@ -655,7 +655,7 @@ main #nft .container .row article .btn {
   font-family: var(--Barlow);
   color: var(--black-clr);
 }
-main #nft .container .row article .btn:hover {
+main #nft .container .row .nft .btn:hover {
   background-color: var(--btn-clr);
   color: var(--black-clr);
 }
