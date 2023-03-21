@@ -971,7 +971,7 @@ main #whitePaper .container .row article .inner-article h2 {
     margin: 0 auto;
     row-gap: 1.5rem;
   }
-  #nft .container .row article {
+  #nft .container .row .nft {
     width: 100%;
     display: flex;
     justify-content: center;
