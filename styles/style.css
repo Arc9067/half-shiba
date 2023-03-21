@@ -942,7 +942,7 @@ main #whitePaper .container .row article .inner-article h2 {
   #tokenomics .container .row1 .article3 {
     border-radius: 0 !important;
   }
-    main #tokenomics .container .how_to_buy_video {
+    main #tokenomics .container .how_to_buy_video video {
     width: 340px;
     height: auto;
 }
