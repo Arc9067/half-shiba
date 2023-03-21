@@ -603,16 +603,17 @@ main #tokenomics .container .row2 {
   margin-top: 1rem;
 }
 main #tokenomics .container .row2 .article1 {
-  border-radius: 0px 0px 0px 35px;
+  border-radius: 0px 0px 0px 0px;
 }
 main #tokenomics .container .row2 article:last-child {
-  border-radius: 0px 0px 35px 0px;
+  border-radius: 0px 0px 0px 0px;
 }
 main #tokenomics .container .row2 article {
   margin: 0 auto;
   background-color: var(--token-bg);
   text-align: center;
   color: var(--white);
+  width: 18%;
 }
 main #tokenomics .container .row2 article p {
   text-transform: uppercase;
