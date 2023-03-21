@@ -614,7 +614,7 @@ main #tokenomics .container .row2 article:last-child {
 }
 main #tokenomics .container .row2 article {
   margin: 0 auto;
-  background-color: var(--token-bg);
+  background-color: rgba(0, 0, 0, 0.125);
   text-align: center;
   color: var(--white);
   width: 18%;
