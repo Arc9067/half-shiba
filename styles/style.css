@@ -571,6 +571,7 @@ main #tokenomics .container .row1 article {
   height: 300px;
   padding: 1rem;
   overflow: hidden;
+  color: white;
 }
 main #tokenomics .container .row1 article .title {
   font-family: var(--Barlow);
