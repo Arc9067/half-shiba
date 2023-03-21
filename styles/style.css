@@ -641,7 +641,6 @@ main #nft .container .row .nft {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  padding: 2px;
   width: 220px;
   visibility: visible !important;
   opacity: 1 !important; 
