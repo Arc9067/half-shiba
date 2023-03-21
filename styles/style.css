@@ -631,15 +631,18 @@ main #nft {
   margin: 50px 0;
 }
 main #nft .container .row {
-  background-color: #202020;
-  justify-content: space-between;
-  border-radius: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* For smoother scrolling on iOS devices */
 }
 main #nft .container .row article {
   display: flex;
   flex-direction: column;
   gap: 1rem;
   padding: 20px;
+  width: 40%; /* or any other width that works for your design */
+  /* other existing styles */
 }
 main #nft .container .row article img {
   cursor: pointer;
