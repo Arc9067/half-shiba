@@ -528,7 +528,7 @@ main #tokenomics .container .how_to_buy {
     align-items: center;
 }
 main #tokenomics .container .how_to_buy_video {
-    width: 100px;
+    width: auto;
     height: auto;
 }
 main #tokenomics .container .how_to_buy_title {
