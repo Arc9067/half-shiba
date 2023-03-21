@@ -522,16 +522,16 @@ main #tokenomics {
   width: 100%;
   padding: 25px 0;
 }
-main #tokenomics .container .buy_video {
+main #tokenomics .container .how_to_buy {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
 }
-main #tokenomics .container video {
-    width: 50%;
+main #tokenomics .container .how_to_buy_video {
+    width: 100px;
     height: auto;
 }
-main #tokenomics .container .title1 {
+main #tokenomics .container .how_to_buy_title {
   text-transform: uppercase;
   font-family: var(--Barlow);
   font-weight: var(--ExtraBold);
