@@ -52,22 +52,10 @@
     <link rel="stylesheet" href="./styles/style.css" />
     <!-- --------------------------------- styles end here ----------------------------------------------- -->
     
-    <script>
-    function autoScroll() {
-      var container = document.getElementById("nft-container");
-      var scrollAmount = container.scrollWidth - container.clientWidth;
-      var scrollInterval = setInterval(function() {
-        if (container.scrollLeft < scrollAmount) {
-          container.scrollLeft += 1;
-        } else {
-          clearInterval(scrollInterval);
-        }
-      }, 20);
-    }
-  </script>
+    
     
   </head>
-  <body onload="autoScroll()">
+  <body>
     <!-- absolute elements start here -->
 
     <div class="loader">
