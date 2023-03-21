@@ -485,7 +485,7 @@ main #about .container .row article {
   padding: 45px;
 }
 
-main #about .container .row .article1 .aboutimg img {
+main #about .container .row .article1 img {
   width: 80%;
   height: auto;
   min-width: 350px;
