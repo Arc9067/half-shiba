@@ -6,17 +6,17 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: #001824;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #888;
+  background: #000f16;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: #01293d;
 }
 
 /*----------------------------------------------------
@@ -657,6 +657,7 @@ main #nft .container .row {
   display: flex;
   flex-wrap: nowrap;
   overflow-x: auto;
+  padding: 20px 0;
 }
 main #nft .container .row .nft {
   display: flex;
