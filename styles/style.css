@@ -393,12 +393,9 @@ main #home .container .row article {
 }
 main #home .container .row .article2 {
   display: flex;
-  justify-content: flex-end;
-  height: 80%;
 }
 main #home .container .row .article2 svg {
   display: flex;
-  justify-content: flex-end;
 }
 main #home .container .row .article1 .inner-article {
   min-height: 80%;
