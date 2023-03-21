@@ -481,6 +481,8 @@ main #about .container .row {
 }
 main #about .container .row article {
   z-index: 3;
+  background-color: rgba(0, 0, 0, 0.125);
+  padding: 45px;
 }
 
 main #about .container .row article .aboutimg {
