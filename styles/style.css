@@ -528,7 +528,7 @@ main #tokenomics .container .how_to_buy {
     align-items: center;
 }
 main #tokenomics .container .how_to_buy_video {
-    width: auto;
+    width: 570px;
     height: auto;
 }
 main #tokenomics .container .how_to_buy_title {
@@ -942,6 +942,10 @@ main #whitePaper .container .row article .inner-article h2 {
   #tokenomics .container .row1 .article3 {
     border-radius: 0 !important;
   }
+    main #tokenomics .container .how_to_buy_video {
+    width: 340px;
+    height: auto;
+}
   #nft .container .row {
     width: 80%;
     margin: 0 auto;
