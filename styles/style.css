@@ -461,7 +461,6 @@ main #home .container .row .article1 .inner-article .btn-div .btn {
 main #about {
   width: 100%;
   position: relative;
-  padding: 75px 0;
 }
 main #about .about-overlay {
   position: absolute;
