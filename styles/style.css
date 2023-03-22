@@ -550,10 +550,8 @@ main #tokenomics .container .how_to_buy_video {
     margin: 0 auto;
 }
    main #tokenomics .container .how_to_buy_video video {
-    width: 40%;
+    width: 100%;
     height: auto;
-    min-width: 330px;
-    min-height: 187;
 }
 main #tokenomics .container .how_to_buy_title {
   text-transform: uppercase;
