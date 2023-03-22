@@ -486,9 +486,13 @@ main #about .container .row article {
 }
 
 main #about .container .row .article1 img {
-  width: 80%;
+  width: 75%;
   height: auto;
-  min-width: 350px;
+  min-width: 265px;
+}
+main #about .container .row .article1 {
+ text-align: center;
+ 
 }
 
 main #about .container .row .article2 {
