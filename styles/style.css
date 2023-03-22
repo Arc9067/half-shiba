@@ -609,6 +609,7 @@ main #tokenomics .container .row1 article .btn {
 main #tokenomics .container .row2 {
   gap: 1.5rem;
   margin-top: 1rem;
+  justify-content: space-between;
 }
 main #tokenomics .container .row2 .article1 {
   border-radius: 0px 0px 0px 0px;
