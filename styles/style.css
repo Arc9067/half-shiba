@@ -128,15 +128,13 @@ body .hamburger {
   place-items: center;
   position: fixed;
   z-index: 100;
-  right: 10px;
-  top: 50%;
   display: none;
 }
 body .hamburger i {
   font-size: 2em;
   text-align: center;
   cursor: pointer;
-  background-color: var(--clr-sec);
+  background-color: black;
   color: var(--white);
   width: 40px;
   height: 40px;
