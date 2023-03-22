@@ -618,12 +618,10 @@ main #tokenomics .container .row2 article:last-child {
   border-radius: 0px 0px 0px 0px;
 }
 main #tokenomics .container .row2 article {
-  margin: 0 auto;
   background-color: rgba(0, 0, 0, 0.125);
   text-align: center;
   color: var(--white);
-  width: 18%;
-  min-width: 180px;
+  width: 45%;
 }
 main #tokenomics .container .row2 article p {
   text-transform: uppercase;
