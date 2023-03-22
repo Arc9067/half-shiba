@@ -1050,6 +1050,9 @@ main #whitePaper .container .row article .inner-article h2 {
   #tokenomics .container .row2 {
     gap: 1rem;
   }
+    main #tokenomics .container .row1 {
+  justify-content: center; 
+}
   #tokenomics .container .row2 article {
     width: 20%;
     border-radius: 0 !important;
