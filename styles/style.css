@@ -379,6 +379,7 @@ main {
 }
 main #home {
   max-height: 100vh;
+  margin: 75px 0;
 }
 main #home .container {
   height: 100%;
