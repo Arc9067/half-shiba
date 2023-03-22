@@ -126,7 +126,6 @@ body .hamburger {
   width: 50px;
   display: grid;
   place-items: center;
-  position: fixed;
   z-index: 100;
   display: none;
 }
@@ -270,7 +269,7 @@ button,
 }
 
 .header-col {
-  background-color: var(--black-clr);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 header {
@@ -940,6 +939,9 @@ main #whitePaper .container .row article .inner-article h2 {
   }
   header .container nav .inner-nav .nav-btn .btn {
     display: none;
+  }
+  header .container nav .nav-btn {
+  display: none;
   }
   main #home .container .row .article1 .inner-article .title {
     font-size: 4em;
