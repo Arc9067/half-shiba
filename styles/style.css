@@ -549,6 +549,12 @@ main #tokenomics .container .how_to_buy p {
 main #tokenomics .container .how_to_buy_video {
     margin: 0 auto;
 }
+   main #tokenomics .container .how_to_buy_video video {
+    width: 40%;
+    height: auto;
+    min-width: 330px;
+    min-height: 187;
+}
 main #tokenomics .container .how_to_buy_title {
   text-transform: uppercase;
   font-family: var(--Barlow);
@@ -999,10 +1005,7 @@ main #whitePaper .container .row article .inner-article h2 {
   #tokenomics .container .row1 .article3 {
     border-radius: 0 !important;
   }
-    main #tokenomics .container .how_to_buy_video video {
-    width: 285px;
-    height: auto;
-}
+ 
   #nft .container .row {
     width: 100%;
     margin: 0 auto;
