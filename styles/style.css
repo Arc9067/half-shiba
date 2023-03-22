@@ -562,6 +562,9 @@ main #tokenomics .container .how_to_buy_title {
   display: block;
   margin: 0 auto;
 }
+main #tokenomics .container .row1 {
+  justify-content: space-around;  
+}
 main #tokenomics .container .row1 .article1 {
   border-radius: 35px 0px 0px 0px;
   overflow: hidden;
@@ -580,11 +583,14 @@ main #tokenomics .container .row1 .article3 {
     text-align: center;
 }
 main #tokenomics .container .row1 article {
-  margin: 0 auto;
-  height: 300px;
-  padding: 1rem;
-  overflow: hidden;
-  color: white;
+    height: auto;
+    display: block;
+    padding: 1rem;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.125);
+    width: 33%;
+    min-width: 340px;
+    text-align: center;
 }
 main #tokenomics .container .row1 article .title {
   font-family: var(--Barlow);
