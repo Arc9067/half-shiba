@@ -378,7 +378,6 @@ main {
   overflow: hidden;
 }
 main #home {
-  padding: 75px 0;
   max-height: 100vh;
 }
 main #home .container {
